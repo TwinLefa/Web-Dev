@@ -1,0 +1,29 @@
+body {
+	
+	color:navy;
+
+}
+
+
+
+
+
+
+h2{
+  background: radial-gradient(
+	    ellipse at right, white,grey
+		, rgb(48, 49, 49)
+	);
+	
+}
+
+	
+	*{
+		
+		font-family:italic;
+	text-align:center;}
+	
+	h1{
+		color: white
+		
+	}
